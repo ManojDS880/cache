@@ -13,5 +13,4 @@
             statistics="true"
             memoryStoreEvictionPolicy="LRU"/>
 
-
 </ehcache>
