@@ -6,7 +6,6 @@
 
     <persistence-unit name="test" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-
         <!-- Entity class -->
         <class>caching.Bike</class>
 
